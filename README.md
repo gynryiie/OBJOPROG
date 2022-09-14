@@ -1,3 +1,3 @@
 # OBJOPROG
 
-hello world 5
+hello world 7:12
